@@ -2,7 +2,8 @@
 
 A modern, full-stack web application that curates health news articles and uses AI to generate summaries, key takeaways, and simplified versions for better accessibility.
 
-![Health News Curator](https://images.pexels.com/photos/3825372/pexels-photo-3825372.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+## Try it out : 
+Health News Curator : https://health-news-ai-1lb9.vercel.app/
 
 ## 🚀 Project Setup & Demo
 
@@ -51,7 +52,7 @@ A modern, full-stack web application that curates health news articles and uses 
    - Backend API: http://localhost:3001
 
 ### Demo
-🔗 **Live Demo**: [Health News Curator](https://ai-health-news-simpl-j7ct.bolt.host)
+🔗 **Live Demo**: [Health News Curator](https://health-news-ai-1lb9.vercel.app/)
 
 ## 🎯 Problem Understanding
 
@@ -169,12 +170,14 @@ server/
 ## 📱 Screenshots & Features
 
 ### Main Feed
+![Home Screen](assets/HomeScreen.png)
 - Clean card-based layout with article previews
 - AI-generated summaries with expandable takeaways
 - Pull-to-refresh functionality
 - Skeleton loading states
 
 ### Article Expansion
+![Article](assets/Article.png)
 - Side-by-side comparison: Original vs Simplified
 - Real-time AI content generation
 - Multiple view modes (Original, Simplified, Split)
